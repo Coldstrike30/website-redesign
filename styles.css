@@ -2,11 +2,11 @@
   position: fixed;
   top: 16px;
   bottom: 16px;
-  right: 70px;
-  left: 70px;
+  right: 80px;
+  left: 80px;
   
   background-color: rgb(36, 35, 35);
-   width: 1320px;
+   width: 87%;
    height: 84px;
   border-radius: 99px;
   display: flex;
@@ -43,7 +43,7 @@
   color: #fffefe;
   background-color: #000000;
   border: none;
-  font-size: 16px;
+  font-size: 1rem;
   padding: 20px 15px;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -73,7 +73,7 @@
   cursor: pointer;
   font-weight: 500;
   font-family: 'Lato', sans-serif;
-  font-size: 18px;
+  font-size: 1.125rem;
   line-height: 24px;
   letter-spacing: -0.4px;
   transition: all 0.3s ease;
@@ -143,7 +143,7 @@ background-color: whitesmoke;
     font-weight: 500;
     letter-spacing: -0.5px;
     line-height: 28px;
-    font-size: 18px;
+    font-size: 1.125rem;
 
 
 
@@ -161,7 +161,7 @@ background-color: whitesmoke;
   font-family: 'Poppins', sans-serif;
   line-height: 58px;
   letter-spacing: -1.0px;
-  font-size: 48px;
+  font-size: 3rem;
   font-weight: 900;
   transform: scaleX(1.03);
   
@@ -340,7 +340,7 @@ object-fit: cover;
 }
 
 .Summary p {
-  font-size: 10pt;       
+  font-size: 0.83rem;       
   line-height: 1.6;
   margin: 0 auto;           
 }
@@ -356,7 +356,7 @@ object-fit: cover;
   color: #111;
   border: none;
   padding: 14px 28px;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 500;
   font-family: 'lato', sans-serif;
   cursor: pointer;
@@ -442,7 +442,7 @@ display: flex;
   
   margin-top: 2.0em;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 1rem;
   
 
 
@@ -580,7 +580,7 @@ display: flex;
 
 .HoverText h5 {
   text-align: left;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 110;
   
   font-family: "Geist", sans-serif;
@@ -592,13 +592,13 @@ display: flex;
 
 .HoverText p{
   text-align: left;
-  font-size: 12px;
+  font-size: 0.75rem;
   margin-top: -2.0em;
   font-family: "Geist", sans-serif;
 
 
   font-weight: 80;
-  line-height: 18px;
+  line-height: 1.25rem;
   
 
 
@@ -621,7 +621,7 @@ display: flex;
   color: #fffefe;
   background-color: #000000;
   border: none;
-  font-size: 16px;
+  font-size: 1rem;
   padding: 15px 15px;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -650,7 +650,7 @@ display: flex;
   color: #fffefe;
   background-color: #000000;
   border: none;
-  font-size: 16px;
+  font-size: 1rem;
   padding: 15px 15px;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -670,7 +670,7 @@ display: flex;
   width: 100px;
   height: 50px;
   margin-top: 2.5em;
-  font-size: 10pt;
+  font-size: 1rem;
   position:relative;
   
   
@@ -753,7 +753,7 @@ display: flex;
 
 .metric-col2 p{
 text-align: left;
-  font-size: 14px;
+  font-size: 1rem;
   font-weight: 200;
   font-family: 'Poppins', sans-serif;
 
@@ -762,7 +762,7 @@ text-align: left;
 
 .metric-col2 h5{
 margin: 0;
-  font-size: 24px;
+  font-size: 1.5rem;
   line-height: 1.1;
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
@@ -772,7 +772,7 @@ margin: 0;
 }
 .metric-col2 h4{
 margin: 0;
-  font-size: 18px;
+  font-size: 1.13rem;
   line-height: 1.1;
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
@@ -832,7 +832,7 @@ margin: 0;
 
 .metric-col p{
   text-align: left;
-  font-size: 14px;
+  font-size: 0.88rem;
   font-weight: 400;
   font-family: 'Poppins', sans-serif;
 
@@ -843,11 +843,11 @@ margin: 0;
 
 .metric-col h5{
   margin: 0;
-  font-size: 50pt;
+  
   line-height: 1.1;
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
-  font-size: 64px;
+  font-size: 4rem;
   
   word-spacing: 3px;
 
@@ -914,7 +914,7 @@ margin: 0;
 
 .Test-card p{
 text-align: left;
-  font-size: 11pt;
+  font-size: 0.9375rem;
   font-weight: 400;
   font-family: 'Poppins', sans-serif;
 
@@ -924,7 +924,7 @@ text-align: left;
 
 .Test-card h4{
 margin: 0;
-  font-size: 12pt;
+  font-size: 1rem;
   line-height: 1.1;
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
@@ -1062,14 +1062,13 @@ margin: 0;
 .footer-bottom {
   
   
-  font-size: 14px;
+  font-size: 0.875rem;
   color: #000000;
 }
 
 .footer-bottom h5 {
   font-weight: 600;
-  font-size: 12px;
-
+  font-size: 0.75rem;
 }
 
 
